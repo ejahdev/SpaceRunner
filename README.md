@@ -1,2 +1,2 @@
-Click on link below to play game!
+Click on link to play game! - 
 https://ejahdev.github.io/SpaceRunner/
